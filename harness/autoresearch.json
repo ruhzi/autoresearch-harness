@@ -1,0 +1,6 @@
+{
+  "auto_pipeline": true,
+  "max_depth": 2,
+  "max_threads": 6,
+  "stop_percent": 60
+}

@@ -1,0 +1,5 @@
+{
+  "defaultProvider": "openrouter",
+  "defaultModel": "z-ai/glm-5.3-flash",
+  "extensions": ["extensions/subagent", "extensions/autoresearch"]
+}
